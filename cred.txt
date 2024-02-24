@@ -1,0 +1,6 @@
+
+mongodb+srv://nitinsingh:Hl7vRDh6FTOchgup@foodnest.8kvfjxp.mongodb.net/
+nitinsingh
+Hl7vRDh6FTOchgup
+
+#ngrok http 5000
